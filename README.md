@@ -24,7 +24,7 @@ I enjoy working on projects that combine software and hardware — from *Java-ba
 - 🤖 Cleaning Bot – Semi-autonomous sensor-based cleaning robot  
 - 📻 FM Spy Bug – Custom-designed FM transmitter for discreet listening
 
-👉 [Check out my repositories »](https://github.com/tamizhazhagan)
+👉 [Check out my repositories »](https://github.com/tamizhazhagan-ece)
 
 ### 📫 Connect with Me
 
