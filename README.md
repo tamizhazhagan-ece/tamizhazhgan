@@ -32,4 +32,4 @@ I enjoy working on projects that combine software and hardware — from *Java-ba
 - 🔗 LinkedIn: [linkedin.com/in/tamizhazhagan-s-8a16352a1](https://www.linkedin.com/in/tamizhazhagan-s-8a16352a1)  
 - 💻 GitHub: [github.com/tamizhazhagan](https://github.com/tamizhazhagan)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamizhazhagan&show_icons=true&theme=radical)
+
